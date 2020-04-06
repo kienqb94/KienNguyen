@@ -1,0 +1,4 @@
+# 1111
+
+^https:\/\/p.+-buy\.itunes\.apple\.com\/WebObjects\/MZFinance.woa\/wa\/inAppRegrantPurchaseHistory url script-response-body
+https://raw.githubusercontent.com/kienqb94/kienqb94/master/1111.js
